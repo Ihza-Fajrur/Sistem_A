@@ -1,2 +1,2 @@
 def fungsi():
-    print("Hello")
+    print("Hello Indonesia")
